@@ -1,0 +1,25 @@
+[InternetShortcut]
+URL=http://www.my-heroku-app.herokuapp.com
+NOTES
+It's new for me to deploy web application on Heroku. And after limited number of failed attempts, due to lack of time, I'm sharing the 
+github link to my code for Bookmart App.
+
+Github Link -> https://github.com/nirajburde/bookmart
+
+A .sql file is also included at the root of project which must be imported to a MySQL database named as 'bookmart'.
+I request you to bear the inconvenience caused.
+
+Now coming up to the features I've covered in this project:-
+1. A user can sign-in to bookmart using his/her email address and password.
+	- There are two users :-
+		USERNAME				  PASSWORD
+		nirajburde@email.com 	| nirajburde
+		steven@email.com		| steven
+	- The sign-up feature is skipped.
+
+2. After signing-in, user has access to four pages from the menu bar i.e. Home, Hot Deals, Education and Magazines.
+3. A user can add ebooks to his cart. Cart can be checked by clicking on 'Checkout' link at the top.
+4. Once ebook purchased, user can go to 'My Books' page by clicking on another link at top. On click of 'Read Book', book will be 
+	opened in another tab of browser.
+
+#Design on certain pages are not complete as I focused on completing the back-end functionality.

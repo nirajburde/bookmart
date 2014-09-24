@@ -46,11 +46,11 @@
 				<form id="loginFrm" name="loginFrm" method="post">
 					<label for="username">
 						Username:
-						<input value="nirajburde@email.com" type="text" name="email" id="email" placeholder="Username must be between 8 and 20 characters" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{8,20}$" required="required" />
+						<input type="text" name="email" id="email" placeholder="Username must be between 8 and 20 characters" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{8,20}$" required="required" />
 					</label>
 					<label for="password">
 						Password:
-						<input value="nirajburde" type="password" name="password" id="password" placeholder="Password must contain 1 uppercase, lowercase and number" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required="required" />
+						<input type="password" name="password" id="password" placeholder="Password must contain 1 uppercase, lowercase and number" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required="required" />
 					</label>
 					<button id="sign_in" name="sign_in" type="submit">Sign in</button>
 				</form>
