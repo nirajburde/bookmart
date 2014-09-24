@@ -1,0 +1,332 @@
+body{font-family:verdana;background-color:#F1F1F1;}
+#header{width:100%;margin-left: auto;margin-right: auto;color:white;}
+
+#div_upper{
+	height:35px;
+	background-color:#971213;
+	padding:0 150px;
+}
+#div_upper ul{
+	float:right;
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+}
+#div_upper ul li {
+	margin: 0 8px;
+    display: inline;
+}
+#div_upper ul li a{
+	text-decoration:none;
+	color:white;
+}
+
+
+
+#div_lower{
+	height:85px;
+	background-color:#C32929;
+	padding:0 150px;
+}
+#logo{
+	font-size:45px;
+}
+#div_lower{/* padding-top:10px; */margin-bottom:auto;margin-top:auto;}
+#div_lower div,span{float:left;}
+
+#div_lower #search_div{margin:12px 10px;}
+
+#search_btn{border:1px solid #9D1517;outline:0;width:64px;height:33px;background: url('../images/search_btn.png') no-repeat scroll 0 0 transparent;}
+
+#main{width:100%;margin-left: auto;
+	margin-right: auto;}
+
+#menu{
+	margin-top:26px;
+	width:auto;padding:0 150px;
+}
+#menu ul{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+	display: table;
+	width: 100%;
+}
+.menu-list li{
+	display: table-cell;
+	width:auto;
+	height:27px;
+	background-color:#B2B2B2;
+	/* padding:0 5px; */
+	text-align:center;
+	border-right:1px solid white;
+}
+.menu-list li a{
+	vertical-align:middle;
+	text-decoration:none;
+	color:white;
+	font-size:12px;
+    text-align: center;
+	margin:0 5px;
+	width:100%;
+}
+.active{
+	background-color:#C32929 !important;
+}
+.menu-list li:hover{
+	background-color:#C32929;
+}
+.menu-list li a:hover{
+	text-decoration:underline;
+}
+
+.search_text{
+	width:510px;height:32px;padding:0 0 0 10px;margin:0;
+}
+
+.connect_us{
+	margin:18px 10px;
+	float:right;
+}
+
+.banner{
+	margin-top:26px;
+	padding:0 150px;
+}
+
+#slider{
+	margin-top:26px;
+	margin-bottom:26px;
+}
+
+#books{
+	padding:0 150px;
+	font-weight:bold;
+	font-size:16px;
+}
+.book-list{
+	list-style-type: none;
+    padding: auto;
+	display: table;
+	width: 100%;
+}
+
+.book-list li{
+	display: table-cell;
+	width:auto;
+}
+
+#links{
+	padding:0 150px;
+	font-size:16px;
+	color:grey;
+}
+
+#links #links-list-div #links-list{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	display: table;
+	width: 100%;
+}
+
+
+#links-list-div #links-list  .links-list-item{
+	display: table-cell;
+	width:auto;
+	height:auto;
+	text-align:center;
+}
+
+#links-list-div #links-list .links-list-item hr{
+	color:#BEBEBE;
+}
+#links-list-div #links-list .links-list-item div{
+	padding-left:40px;
+}
+
+.page-links{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+}
+.page-links li{
+	list-style-type: none;
+	text-align:left;
+}
+.page-links li a{
+	text-decoration:none;
+	color:grey;
+	font-size:10px;
+}
+.page-links li a:hover{
+	text-decoration:underline;
+}
+
+
+#footer{
+	background-color:#971213;
+	height:24px;
+	width:100%;
+	margin:0; padding:0;
+	/* position:absolute; */
+}
+#footer span{
+	float:right;
+	padding:0 150px;
+	color:white;
+	font-size:10px;
+	bottom:0;
+}
+
+
+
+/*
+*	RESET
+*/
+*{
+	box-sizing: border-box;
+	margin: 0;
+	outline: none;
+	padding: 0;
+}
+
+/*
+*	GLOBAL
+*/
+html {
+	font-size: 16px;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
+}
+
+body {
+	background-color: #f3f3f3;
+	color: rgb(165,165,165);
+	font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-weight: 400;
+}
+
+a.close {
+	background-color: #C32929;
+	border-radius: 50%;
+	color: rgb(255,255,255);
+	display: block;
+	font-family: 'Varela Round', sans-serif;
+	font-size: .8em;
+	padding: .2em .5em;
+	position: absolute;
+	top: 1.25rem;
+	transition: all 400ms ease;
+	right: 1.25rem;
+}
+	
+	a.close:hover {
+		background-color: #d56969;
+		cursor: pointer;
+	}
+
+/*
+*	LOG-IN BOX
+*/
+div.overlay {
+	background-color: rgba(0,0,0,.25);
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index:100;
+}
+
+	div.overlay > div.login-wrapper {
+		align-self: center;
+		background-color: rgba(0,0,0,.25);
+		border-radius: 2px;
+		padding: 6px;
+		width: 450px;
+	}
+	
+		div.overlay > div.login-wrapper > div.login-content {
+			background-color: rgb(255,255,255);
+			border-radius: 2px;
+			padding: 24px;	
+			position: relative;
+		}
+		
+			div.overlay > div.login-wrapper > div.login-content > h3 {
+				color: rgb(0,0,0);
+				font-family: 'Varela Round', sans-serif;
+				font-size: 1.8em;
+				margin: 0 0 1.25em;
+				padding: 0;
+			}
+/*
+*	FORM
+*/
+form label {
+	color: rgb(0,0,0);
+	display: block;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 1.25em;
+	margin: .75em 0;	
+}
+
+	form input[type="text"],
+	form input[type="email"],
+	form input[type="number"],
+	form input[type="search"],
+	form input[type="password"],
+	form textarea {
+		background-color: rgb(255,255,255);
+		border: 1px solid rgb( 186, 186, 186 );
+		border-radius: 1px;
+		box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.08);
+		display: block;
+		font-size: .65em;
+		margin: 6px 0 12px 0;
+		padding: .8em .55em;	
+		text-shadow: 0 1px 1px rgba(255, 255, 255, 1);
+		transition: all 400ms ease;
+		width: 90%;
+	}
+	
+	form input[type="text"]:focus,
+	form input[type="email"]:focus,
+	form input[type="number"]:focus,
+	form input[type="search"]:focus,
+	form input[type="password"]:focus,
+	form textarea:focus,
+	form select:focus { 
+		border-color: #C32929;
+		box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px #d56969;
+	}
+	
+		form input[type="text"]:invalid:focus,
+		form input[type="email"]:invalid:focus,
+		form input[type="number"]:invalid:focus,
+		form input[type="search"]:invalid:focus,
+		form input[type="password"]:invalid:focus,
+		form textarea:invalid:focus,
+		form select:invalid:focus { 
+			border-color: rgb(248,66,66);
+			box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgb(248,66,66);
+		}
+	
+form button {
+	background-color: #C32929;
+	border: 1px solid rgba(0,0,0,.1);
+	color: rgb(255,255,255);
+	font-family: 'Varela Round', sans-serif;
+	font-size: .85em;
+	padding: .55em .9em;
+	transition: all 400ms ease;	
+}
+
+	form button:hover {
+		background-color: #d56969;
+		cursor: pointer;
+	}

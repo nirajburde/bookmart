@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/16328" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="EpubMaker 0.3.20a6 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Beowulf&#13;
+An Anglo-Saxon Epic Poem</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>PREFACE.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-0.htm.html#pgepubid00000"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>THE STORY.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-0.htm.html#pgepubid00001"/>
+      </navPoint>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>ABBREVIATIONS USED IN THE NOTES.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-0.htm.html#pgepubid00002"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>BIBLIOGRAPHY OF TRANSLATIONS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-0.htm.html#BIBLIOGRAPHY"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>GLOSSARY OF PROPER NAMES.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-0.htm.html#pgepubid00003"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>LIST OF WORDS AND PHRASES NOT IN GENERAL USE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-1.htm.html#pgepubid00004"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>BEOWULF.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00005"/>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#I"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>THE LIFE AND DEATH OF SCYLD.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00006"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#II"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>SCYLD’S SUCCESSORS.—HROTHGAR’S GREAT MEAD-HALL.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00007"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#III"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>GRENDEL THE MURDERER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00008"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>IV.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00009"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>BEOWULF GOES TO HROTHGAR’S ASSISTANCE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00010"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>V.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#V"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>THE GEATS REACH HEOROT.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00011"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>VI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#VI"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>BEOWULF INTRODUCES HIMSELF AT THE PALACE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>VII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#VII"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>HROTHGAR AND BEOWULF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>VIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#VIII"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>HROTHGAR AND BEOWULF.—Continued.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>IX.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#IX"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>UNFERTH TAUNTS BEOWULF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>X.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>BEOWULF SILENCES UNFERTH.—GLEE IS HIGH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>XI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#XI"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>ALL SLEEP SAVE ONE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00018"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>XII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00019"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>GRENDEL AND BEOWULF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html#pgepubid00020"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>XIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#XIII"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>GRENDEL IS VANQUISHED.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00021"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>XIV.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00022"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>REJOICING OF THE DANES.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00023"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>XV.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>HROTHGAR’S GRATITUDE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00025"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>XVI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#XVI"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>HROTHGAR LAVISHES GIFTS UPON HIS DELIVERER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00026"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>XVII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#XVII"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>BANQUET (continued).—THE SCOP’S SONG OF FINN AND HNÆF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00027"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>XVIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#XVIII"/>
+      </navPoint>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>THE FINN EPISODE (continued).—THE BANQUET CONTINUES.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html#pgepubid00028"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>XIX.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#XIX"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>BEOWULF RECEIVES FURTHER HONOR.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#pgepubid00029"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>XX.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>THE MOTHER OF GRENDEL.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#pgepubid00031"/>
+      </navPoint>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>XXI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#XXI"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>HROTHGAR’S ACCOUNT OF THE MONSTERS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#pgepubid00032"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>XXII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#XXII"/>
+      </navPoint>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>BEOWULF SEEKS GRENDEL’S MOTHER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#pgepubid00033"/>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>XXIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#XXIII"/>
+      </navPoint>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>BEOWULF’S FIGHT WITH GRENDEL’S MOTHER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#pgepubid00034"/>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>XXIV.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#XXIV"/>
+      </navPoint>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>BEOWULF IS DOUBLE-CONQUEROR.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html#pgepubid00035"/>
+      </navPoint>
+      <navPoint id="np-56" playOrder="56">
+        <navLabel>
+          <text>XXV.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#XXV"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>BEOWULF BRINGS HIS TROPHIES.—HROTHGAR’S GRATITUDE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#pgepubid00036"/>
+      </navPoint>
+      <navPoint id="np-58" playOrder="58">
+        <navLabel>
+          <text>XXVI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#XXVI"/>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>HROTHGAR MORALIZES.—REST AFTER LABOR.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#pgepubid00037"/>
+      </navPoint>
+      <navPoint id="np-60" playOrder="60">
+        <navLabel>
+          <text>XXVII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#XXVII"/>
+      </navPoint>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>SORROW AT PARTING.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#pgepubid00038"/>
+      </navPoint>
+      <navPoint id="np-62" playOrder="62">
+        <navLabel>
+          <text>XXVIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#XXVIII"/>
+      </navPoint>
+      <navPoint id="np-63" playOrder="63">
+        <navLabel>
+          <text>THE HOMEWARD JOURNEY.—THE TWO QUEENS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#pgepubid00039"/>
+      </navPoint>
+      <navPoint id="np-64" playOrder="64">
+        <navLabel>
+          <text>XXIX.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#XXIX"/>
+      </navPoint>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>BEOWULF AND HIGELAC.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html#pgepubid00040"/>
+      </navPoint>
+      <navPoint id="np-66" playOrder="66">
+        <navLabel>
+          <text>XXX.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#XXX"/>
+      </navPoint>
+      <navPoint id="np-67" playOrder="67">
+        <navLabel>
+          <text>BEOWULF NARRATES HIS ADVENTURES TO HIGELAC.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#pgepubid00041"/>
+      </navPoint>
+      <navPoint id="np-68" playOrder="68">
+        <navLabel>
+          <text>XXXI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#XXXI"/>
+      </navPoint>
+      <navPoint id="np-69" playOrder="69">
+        <navLabel>
+          <text>GIFT-GIVING IS MUTUAL.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#pgepubid00042"/>
+      </navPoint>
+      <navPoint id="np-70" playOrder="70">
+        <navLabel>
+          <text>XXXII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#XXXII"/>
+      </navPoint>
+      <navPoint id="np-71" playOrder="71">
+        <navLabel>
+          <text>THE HOARD AND THE DRAGON.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#pgepubid00043"/>
+      </navPoint>
+      <navPoint id="np-72" playOrder="72">
+        <navLabel>
+          <text>XXXIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#XXXIII"/>
+      </navPoint>
+      <navPoint id="np-73" playOrder="73">
+        <navLabel>
+          <text>BRAVE THOUGH AGED.—REMINISCENCES.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#pgepubid00044"/>
+      </navPoint>
+      <navPoint id="np-74" playOrder="74">
+        <navLabel>
+          <text>XXXIV.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#XXXIV"/>
+      </navPoint>
+      <navPoint id="np-75" playOrder="75">
+        <navLabel>
+          <text>BEOWULF SEEKS THE DRAGON.—BEOWULF’S REMINISCENCES.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html#pgepubid00045"/>
+      </navPoint>
+      <navPoint id="np-76" playOrder="76">
+        <navLabel>
+          <text>XXXV.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#XXXV"/>
+      </navPoint>
+      <navPoint id="np-77" playOrder="77">
+        <navLabel>
+          <text>REMINISCENCES (continued).—BEOWULF’S LAST BATTLE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#pgepubid00046"/>
+      </navPoint>
+      <navPoint id="np-78" playOrder="78">
+        <navLabel>
+          <text>XXXVI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#XXXVI"/>
+      </navPoint>
+      <navPoint id="np-79" playOrder="79">
+        <navLabel>
+          <text>WIGLAF THE TRUSTY.—BEOWULF IS DESERTED BY FRIENDS AND BY SWORD.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#pgepubid00047"/>
+      </navPoint>
+      <navPoint id="np-80" playOrder="80">
+        <navLabel>
+          <text>XXXVII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#pgepubid00048"/>
+      </navPoint>
+      <navPoint id="np-81" playOrder="81">
+        <navLabel>
+          <text>THE FATAL STRUGGLE.—BEOWULF’S LAST MOMENTS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#pgepubid00049"/>
+      </navPoint>
+      <navPoint id="np-82" playOrder="82">
+        <navLabel>
+          <text>XXXVIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#XXXVIII"/>
+      </navPoint>
+      <navPoint id="np-83" playOrder="83">
+        <navLabel>
+          <text>WIGLAF PLUNDERS THE DRAGON’S DEN.—BEOWULF’S DEATH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#pgepubid00050"/>
+      </navPoint>
+      <navPoint id="np-84" playOrder="84">
+        <navLabel>
+          <text>XXXIX.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#XXXIX"/>
+      </navPoint>
+      <navPoint id="np-85" playOrder="85">
+        <navLabel>
+          <text>THE DEAD FOES.—WIGLAF’S BITTER TAUNTS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html#pgepubid00051"/>
+      </navPoint>
+      <navPoint id="np-86" playOrder="86">
+        <navLabel>
+          <text>XL.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#XL"/>
+      </navPoint>
+      <navPoint id="np-87" playOrder="87">
+        <navLabel>
+          <text>THE MESSENGER OF DEATH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#pgepubid00052"/>
+      </navPoint>
+      <navPoint id="np-88" playOrder="88">
+        <navLabel>
+          <text>XLI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#XLI"/>
+      </navPoint>
+      <navPoint id="np-89" playOrder="89">
+        <navLabel>
+          <text>THE MESSENGER’S RETROSPECT.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#pgepubid00053"/>
+      </navPoint>
+      <navPoint id="np-90" playOrder="90">
+        <navLabel>
+          <text>XLII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#XLII"/>
+      </navPoint>
+      <navPoint id="np-91" playOrder="91">
+        <navLabel>
+          <text>WIGLAF’S SAD STORY.—THE HOARD CARRIED OFF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#pgepubid00054"/>
+      </navPoint>
+      <navPoint id="np-92" playOrder="92">
+        <navLabel>
+          <text>XLIII.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#XLIII"/>
+      </navPoint>
+      <navPoint id="np-93" playOrder="93">
+        <navLabel>
+          <text>THE BURNING OF BEOWULF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html#pgepubid00055"/>
+      </navPoint>
+      <navPoint id="np-94" playOrder="94">
+        <navLabel>
+          <text>ADDENDA.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-10.htm.html#pgepubid00056"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

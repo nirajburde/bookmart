@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/16328</dc:identifier>
+    <dc:contributor opf:file-as="Hall, J. Lesslie (John Lesslie)" opf:role="trl">J. Lesslie Hall</dc:contributor>
+    <dc:title>Beowulf / An Anglo-Saxon Epic Poem</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Epic poetry, English (Old)</dc:subject>
+    <dc:subject>Monsters -- Poetry</dc:subject>
+    <dc:subject>Dragons -- Poetry</dc:subject>
+    <dc:date opf:event="publication">2005-07-19</dc:date>
+    <dc:date opf:event="conversion">2013-03-13T12:06:08.203994+00:00</dc:date>
+    <dc:source>http://www.gutenberg.orgfiles/16328/16328-h/16328-h.htm</dc:source>
+  </metadata>
+  <manifest>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <item href="0.css" id="item2" media-type="text/css"/>
+    <item href="1.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=80025 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-0.htm.html" id="contents" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=3413 Split on div.div1-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-1.htm.html" id="LISTOFWORDS" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=56199 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-2.htm.html" id="page_1" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=59090 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-3.htm.html" id="VII" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=55907 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-4.htm.html" id="XIII" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=63354 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-5.htm.html" id="XIX" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=52168 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-6.htm.html" id="XXV" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=58426 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-7.htm.html" id="XXX" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=55389 Split on div-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-8.htm.html" id="XXXV" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=42126-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-9.htm.html" id="XL" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=28710-->
+    <item href="@public@vhost@g@gutenberg@html@files@16328@16328-h@16328-h-10.htm.html" id="ADDENDA" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="contents" linear="yes"/>
+    <itemref idref="LISTOFWORDS" linear="yes"/>
+    <itemref idref="page_1" linear="yes"/>
+    <itemref idref="VII" linear="yes"/>
+    <itemref idref="XIII" linear="yes"/>
+    <itemref idref="XIX" linear="yes"/>
+    <itemref idref="XXV" linear="yes"/>
+    <itemref idref="XXX" linear="yes"/>
+    <itemref idref="XXXV" linear="yes"/>
+    <itemref idref="XL" linear="yes"/>
+    <itemref idref="ADDENDA" linear="yes"/>
+  </spine>
+</package>
