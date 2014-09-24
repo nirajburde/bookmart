@@ -74,10 +74,10 @@
 	</div>
 </div>
 
-<div id="main">
+<div id="main" style="min-height:450px;">
 	<div id="menu">
 		<ul class="menu-list">
-			<li class="active"><a href="#">HOME</a></li>
+			<li class="active"><a href="<?php echo base_url();?>home">HOME</a></li>
 			<li><a href="<?php echo base_url();?>show/hot_deals">HOT DEALS</a></li>
 			<li><a href="<?php echo base_url();?>show/category/Education">EDUCATION</a></li>
 			<li><a href="<?php echo base_url();?>show/category/Magazine">MAGAZINES</a></li>
